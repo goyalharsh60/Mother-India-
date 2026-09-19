@@ -108,7 +108,7 @@ const Gallery = () => {
           <SectionHeader label="Virtual Experience" title="Take a Virtual Walk" description="Explore our campus from the comfort of your home." />
           <div className="max-w-4xl mx-auto rounded-2xl overflow-hidden shadow-lg">
             <iframe
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src="https://www.youtube.com/embed/arZKRfDBsn8?si=fxckk1_QbL_b7MCu"
               title="Mother India Convent School Virtual Campus Tour"
               className="w-full aspect-video"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
